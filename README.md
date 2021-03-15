@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhiwenLiu99
-- 👀 I’m interested in <*Quant*> and <*Data Visualization*>
-- 🌱 I’m currently learning <*Cryptocurrency Quant Strategy*> and <*Stock Data Visualization*>
+- 👀 I’m interested in <**Quant**> and <**Data Visualization**>
+- 🌱 I’m currently learning <**Cryptocurrency Quant Strategy**> and <**Stock Data Visualization**>
 - 💞️ I’m looking to collaborate on 
 - 📫 You can reach me by email: liuzhw16@163.com 
 
