@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ZhiwenLiu99
-- 👀 I’m interested in <**Quant**> and <**Data Visualization**>
-- 🌱 I’m currently learning <**Cryptocurrency Quant Strategy**> and <**Stock Data Visualization**>
+- 👋 Hi, I’m zhiwen, second year Master in THU CS.
+- 👀 I’m interested in <**Quantative Research**>
 
 
 <!---
