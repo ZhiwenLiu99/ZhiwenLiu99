@@ -1,5 +1,5 @@
-- 👋 Hi, I’m zhiwen, second year Master in THU CS.
-- 👀 I’m interested in <**Quantative Research**>
+- 👋 Hi, I’m zhiwen, final year Master in THU CS.
+- 👀 I’m interested in <**Quantative Investing**>
 
 
 <!---
